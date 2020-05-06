@@ -18,3 +18,21 @@ a h3{
     color: aquamarine;
     font-size: 16px;
 }
+
+h3 {
+    color: gray;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+#footer-img {
+    padding-top: 20px;
+}
+
+#excursion-copyright {
+    font-size: 25px;
+    color: gray;
+    text-align: right;
+    margin-right: 35px;
+    font-weight: 300;
+}
